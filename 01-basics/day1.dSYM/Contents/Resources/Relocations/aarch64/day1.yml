@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/salonimathur/Desktop/dsa-notes/01-basics/day1'
+relocations:     []
+...
